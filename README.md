@@ -15,4 +15,4 @@
 
 ## How to Reach Me
 - Email: yvonneofficials06@gmail.com
-- LinkedIn: [your LinkedIn profile link]
+- LinkedIn: your LinkedIn profile link
