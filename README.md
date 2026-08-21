@@ -1,27 +1,23 @@
-Hi, I'm Yvonne Nyambura
-Badge
-#Typing SVG
+Hi, I'm Yvonne 👋 | Aspiring Web Developer
 
-##About Me
--Telecommunications Engineering graduate with a strong interest in technology and problem-solving. Currently focused on building practical skills through hands-on development work.
+# About Me:
+- Learning at IFY, focused on building real-world websites
+- Passionate about clean, fast, mobile-first design
+- Open to collaborate on beginner-friendly open source
 
-###What I Have Been Doing
--Version Control & Collaboration
--Managing code repositories using Git and GitHub
--Creating commits, working with branches, and handling pull requests
--Pushing code changes and collaborating with others on shared projects
--Learning the fundamentals of collaborative software development workflows
-Documentation
--Writing clear project documentation using Markdown
--Structuring README files and technical notes for readability
-Web Development
--Building web page structure with HTML
-Styling layouts and components with CSS
--Adding interactivity and dynamic behavior with JavaScript
-Socials
--TikTok https://tiktok.com/@it 's-your-guy-dice
--Pinterest https://pinterest.com/papichulopinchez@gmail.com)
--X https://x.com/papichulopinchez@gmail.com)
--Support
-If you'd like to support my work, you can donate via PayPal(https://paypal.me/papichulopinchez@gmail.com)
--
+## Tech Stack:
+Frontend: HTML, CSS, JavaScript
+Backend (learning): Python
+Tools: Git & GitHub, VS Code, Vercel
+
+### Featured Projects:
+1. [My Portfolio Website] - My personal site built with HTML/CSS/JS
+2. [TaskFlow] - A simple Python to-do app
+3. [WeatherNow] - Weather app using an API
+
+📈 GitHub Stats & streak here
+
+📫 Reach Me: 
+Email:yvonneofficials06@gmail.com
+Tiktok: yn.yvonn3
+Pintrest: yn.yvonn3
