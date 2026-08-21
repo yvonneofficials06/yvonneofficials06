@@ -1,18 +1,20 @@
+Hi, I'm Yvonne 👋 | Aspiring Web Developer
 
-# Hi, I'm Yvonne 
+🚀 About Me:
+- Learning at IFY, focused on building real-world websites
+- Passionate about clean, fast, mobile-first design
+- Open to collaborate on beginner-friendly open source
 
-## About Me
-- I'm currently learning programming, at ify.
-- I'm interested in web development .
-- I'm looking to collaborate on  beginner-friendly open source projects.
+🛠️ Tech Stack:
+Frontend: HTML, CSS, JavaScript
+Backend (learning): Python
+Tools: Git & GitHub, VS Code, Vercel
 
-## Skills I'm Building
-- Git and GitHub
-- Python
+📌 Featured Projects:
+1. [My Portfolio Website] - My personal site built with HTML/CSS/JS
+2. [TaskFlow] - A simple Python to-do app
+3. [WeatherNow] - Weather app using an API
 
-## Current Projects
-- [Project name](link) — short description
+📈 GitHub Stats & streak here
 
-## How to Reach Me
-- Email: yvonneofficials06@gmail.com
-- LinkedIn: your LinkedIn profile link
+📫 Reach Me: [Email] | [LinkedIn] | [Portfolio Link]
