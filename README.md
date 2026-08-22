@@ -1,23 +1,28 @@
-Hi, I'm Yvonne 👋 | Aspiring Web Developer
+### Hi, I'm Yvonne 👋 | Aspiring Web Developer
 
-# About Me:
-- Learning at IFY, focused on building real-world websites
-- Passionate about clean, fast, mobile-first design
-- Open to collaborate on beginner-friendly open source
+🚀 **Live Portfolio:** https://yvonneofficials06.github.io/yvonneofficials06.github.io/
 
-## Tech Stack:
-Frontend: HTML, CSS, JavaScript
-Backend (learning): Python
-Tools: Git & GitHub, VS Code, Vercel
+### 💫 About Me
+- 🎓 Learning Programming at IFY, focused on building real-world websites
+- 🌱 Passionate about clean, fast, mobile-first design
+- 👯 Open to collaborate on beginner-friendly open source projects
+- 💬 Ask me about HTML, CSS, JavaScript
 
-### Featured Projects:
-1. My Portfolio Website - My personal site built with HTML/CSS/JS
-2. [TaskFlow] - A simple Python to-do app
-3. [WeatherNow] - Weather app using an API
+### 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript
+**Backend (learning):** Python
+**Tools:** Git & GitHub, VS Code, Vercel
 
-📈 GitHub Stats & streak here
+### 📌 Featured Projects
+1. **My Portfolio Website](https://yvonneofficials06.github.io/yvonneofficials06.github.io/)** - My personal site built with HTML/CSS/JS. Responsive and fast.
+2. **TaskFlow** - A simple Python to-do app to manage daily tasks (coming soon)
+3. **[WeatherNow]** - Weather app using an API to show real-time weather (coming soon)
 
-📫 Reach Me: 
-Email:yvonneofficials06@gmail.com
-Tiktok: yn.yvonn3
-Pintrest: yn.yvonn3
+### 📊 GitHub Stats
+![Yvonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=yvonneofficials06&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonneofficials06&layout=compact&theme=tokyonight)
+
+### 📫 Reach Me:
+- 📧 yvonneofficials06@gmail.com
+- 🎵 TikTok: yn.yvonn3
+- 🐱 GitHub: yvonneofficials06
