@@ -11,7 +11,7 @@ Backend (learning): Python
 Tools: Git & GitHub, VS Code, Vercel
 
 ### Featured Projects:
-1. [My Portfolio Website] - My personal site built with HTML/CSS/JS
+1. My Portfolio Website - My personal site built with HTML/CSS/JS
 2. [TaskFlow] - A simple Python to-do app
 3. [WeatherNow] - Weather app using an API
 
