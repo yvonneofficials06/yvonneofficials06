@@ -1,6 +1,6 @@
 ### Hi, I'm Yvonne 👋 | Aspiring Web Developer
 
-🚀 **Live Portfolio:** https://yvonneofficials06.github.io/yvonneofficials06.github.io/
+🚀 Live Portfolio: https://yvonneofficials06.github.io/my-portfolio/
 
 ### 💫 About Me
 - 🎓 Learning Programming at IFY, focused on building real-world websites
