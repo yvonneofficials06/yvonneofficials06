@@ -11,7 +11,7 @@
 - Am currently focusing in software engineering
 - i like listening to music and dancing to 
 
-### 🛠️ Tech Stack
+### 🛠️ My skills
 **Frontend:** HTML, CSS, JavaScript
 **Backend (learning):** Python
 **Tools:** Git & GitHub, VS Code, Vercel
