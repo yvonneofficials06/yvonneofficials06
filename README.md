@@ -20,9 +20,6 @@
 3. **[WeatherNow]** - Weather app using an API to show real-time weather (coming soon)
 4. ** community hub- A simple community to connect members 
 
-### 📊 GitHub Stats
-![Yvonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=yvonneofficials06&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonneofficials06&layout=compact&theme=tokyonight)
 
 📫 Reach Me:
 - 📧 Email: [yvonneofficials06@gmail.com](mailto:yvonneofficials06@gmail.com)
