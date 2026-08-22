@@ -28,4 +28,5 @@
 - 📧 yvonneofficials06@gmail.com
 - 🎵 TikTok: yn.yvonn3
 - 🐱 GitHub: yvonneofficials06
-- contact: 0790404752
+- 📞 WhatsApp Me: [0790404752](https://wa.me/254790404752)
+
