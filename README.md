@@ -8,6 +8,8 @@
 - 🌱 Passionate about clean, fast, mobile-first design
 - 👯 Open to collaborate on beginner-friendly open source projects
 - 💬 Ask me about HTML, CSS, JavaScript
+- Am currently focusing in software engineering
+- i like listening to music and dancing to 
 
 ### 🛠️ Tech Stack
 **Frontend:** HTML, CSS, JavaScript
