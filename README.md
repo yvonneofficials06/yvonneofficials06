@@ -24,9 +24,10 @@
 ![Yvonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=yvonneofficials06&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvonneofficials06&layout=compact&theme=tokyonight)
 
-### 📫 Reach Me:
-- 📧 yvonneofficials06@gmail.com
-- 🎵 TikTok: yn.yvonn3
-- 🐱 GitHub: yvonneofficials06
-- 📞 WhatsApp Me: [0790404752](https://wa.me/254790404752)
+📫 Reach Me:
+- 📧 Email: [yvonneofficials06@gmail.com](mailto:yvonneofficials06@gmail.com)
+- 🎵 TikTok: [@y.vonn3](https://www.tiktok.com/@y.vonn3)
+- 💻 GitHub: [yvonneofficials06](https://github.com/yvonneofficials06)
+- 📞 WhatsApp: [0790404752](https://wa.me/254790404752)
+
 
