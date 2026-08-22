@@ -15,7 +15,7 @@
 **Tools:** Git & GitHub, VS Code, Vercel
 
 ### 📌 Featured Projects
-1. **My Portfolio Website](https://yvonneofficials06.github.io/yvonneofficials06.github.io/)** - My personal site built with HTML/CSS/JS. Responsive and fast.
+1. *My Portfolio Website(https://yvonneofficials06.github.io/my-portfolio/)* - My personal site built with HTML/CSS/JS. Responsive and fast.
 2. **TaskFlow** - A simple Python to-do app to manage daily tasks (coming soon)
 3. **[WeatherNow]** - Weather app using an API to show real-time weather (coming soon)
 4. ** community hub- A simple community to connect members 
